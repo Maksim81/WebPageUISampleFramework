@@ -1,0 +1,33 @@
+C:\Users\Gamma Test\source\repos\ClassLibrary1\ClassLibrary1\bin\Release\NUnit3.TestAdapter.dll
+C:\Users\Gamma Test\source\repos\ClassLibrary1\ClassLibrary1\bin\Release\nunit.engine.dll
+C:\Users\Gamma Test\source\repos\ClassLibrary1\ClassLibrary1\bin\Release\nunit.engine.api.dll
+C:\Users\Gamma Test\source\repos\ClassLibrary1\ClassLibrary1\bin\Release\Mono.Cecil.dll
+C:\Users\Gamma Test\source\repos\ClassLibrary1\ClassLibrary1\bin\Release\Mono.Cecil.Pdb.dll
+C:\Users\Gamma Test\source\repos\ClassLibrary1\ClassLibrary1\bin\Release\Mono.Cecil.Mdb.dll
+C:\Users\Gamma Test\source\repos\ClassLibrary1\ClassLibrary1\bin\Release\Mono.Cecil.Rocks.dll
+C:\Users\Gamma Test\source\repos\ClassLibrary1\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\Gamma Test\source\repos\ClassLibrary1\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\Gamma Test\source\repos\ClassLibrary1\ClassLibrary1\bin\Release\nunit.framework.dll
+C:\Users\Gamma Test\source\repos\ClassLibrary1\ClassLibrary1\bin\Release\WebDriver.dll
+C:\Users\Gamma Test\source\repos\ClassLibrary1\ClassLibrary1\bin\Release\nunit.framework.xml
+C:\Users\Gamma Test\source\repos\ClassLibrary1\ClassLibrary1\bin\Release\WebDriver.xml
+C:\Users\Gamma Test\source\repos\ClassLibrary1\ClassLibrary1\obj\Release\Framework.csproj.CoreCompileInputs.cache
+C:\Users\Gamma Test\source\repos\ClassLibrary1\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\Gamma Test\source\repos\ClassLibrary1\ClassLibrary1\obj\Release\ClassLibrary1.pdb
+C:\Users\m.kolodijev\Downloads\Arvato\Arvato\ClassLibrary1\bin\Release\nunit.engine.dll
+C:\Users\m.kolodijev\Downloads\Arvato\Arvato\ClassLibrary1\bin\Release\nunit.engine.api.dll
+C:\Users\m.kolodijev\Downloads\Arvato\Arvato\ClassLibrary1\bin\Release\NUnit3.TestAdapter.dll
+C:\Users\m.kolodijev\Downloads\Arvato\Arvato\ClassLibrary1\bin\Release\NUnit3.TestAdapter.pdb
+C:\Users\m.kolodijev\Downloads\Arvato\Arvato\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\m.kolodijev\Downloads\Arvato\Arvato\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\m.kolodijev\Downloads\Arvato\Arvato\ClassLibrary1\bin\Release\nunit.framework.dll
+C:\Users\m.kolodijev\Downloads\Arvato\Arvato\ClassLibrary1\bin\Release\Selenium.WebDriverBackedSelenium.dll
+C:\Users\m.kolodijev\Downloads\Arvato\Arvato\ClassLibrary1\bin\Release\WebDriver.dll
+C:\Users\m.kolodijev\Downloads\Arvato\Arvato\ClassLibrary1\bin\Release\WebDriver.Support.dll
+C:\Users\m.kolodijev\Downloads\Arvato\Arvato\ClassLibrary1\bin\Release\nunit.framework.pdb
+C:\Users\m.kolodijev\Downloads\Arvato\Arvato\ClassLibrary1\bin\Release\nunit.framework.xml
+C:\Users\m.kolodijev\Downloads\Arvato\Arvato\ClassLibrary1\bin\Release\Selenium.WebDriverBackedSelenium.xml
+C:\Users\m.kolodijev\Downloads\Arvato\Arvato\ClassLibrary1\bin\Release\WebDriver.xml
+C:\Users\m.kolodijev\Downloads\Arvato\Arvato\ClassLibrary1\bin\Release\WebDriver.Support.xml
+C:\Users\m.kolodijev\Downloads\Arvato\Arvato\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\m.kolodijev\Downloads\Arvato\Arvato\ClassLibrary1\obj\Release\ClassLibrary1.pdb
