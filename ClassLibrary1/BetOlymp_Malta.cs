@@ -4,6 +4,7 @@ using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading;
@@ -33,10 +34,37 @@ namespace BetOlymp_Malta
         public void Login()
         {
             _driver.FindElement(By.Id("login-username")).Click();
-            _driver.FindElement(By.Id("login-username")).SendKeys("Tester291103");
+            _driver.FindElement(By.Id("login-username")).SendKeys("Tester291104");
             _driver.FindElement(By.Id("login-password")).Click();
             _driver.FindElement(By.Id("login-password")).SendKeys("Test1234");
             _driver.FindElement(By.Id("login_btn")).Click();
+        }
+
+        public void ClickOnSportsBetting()
+        {
+            _driver.FindElement(By.PartialLinkText("SPORTS BETTING")).Click();
+        }
+
+        public void ClickOnFootball()
+        {
+            _driver.FindElement(By.PartialLinkText("FOOTBALL")).Click();
+        }
+
+        public void ClickOnEnglandPremiereLeague()
+        {
+            _driver.FindElement(By.PartialLinkText("England. Premier League")).Click();
+        }
+
+        public void ClickOnFirstPredict()
+        {
+            _driver.FindElement(By.ClassName("ch_l c_bbtn")).Click();
+        }
+
+        public string GetFirstPredictDetails()
+        {
+            String matchDetails = _driver.FindElement(By.XPath("//*[@id='pane - target']/div[2]/div[2]/div[1]/div[1]/div[1]")).ToString();
+            Debug.WriteLine(matchDetails);
+            return matchDetails;
         }
 
         [SetUp]
@@ -60,9 +88,24 @@ namespace BetOlymp_Malta
         {
             StartFromHomePage();
             Login();
-            IWebElement element = _driver.FindElement(By.ClassName("inl_ico icon-wallet-1")); 
-            Assert.True(IsElementVisible(element));
             Thread.Sleep(3000);
+            IWebElement element = _driver.FindElement(By.PartialLinkText("Deposit"));
+            Assert.True(IsElementVisible(element));
+        }
+
+        [Test, Description("Place simple bet")]
+        public void PlaceBet()
+        {
+            StartFromHomePage();
+            Login();
+            ClickOnSportsBetting();
+            ClickOnFootball();
+            ClickOnEnglandPremiereLeague();
+            //ClickOnFirstPredict();
+            //Console.WriteLine("Console output");
+            GetFirstPredictDetails();
+            //Debug.WriteLine("Console output");
+            //IWebElement element = _driver.FindElement(By.XPath("//*[@id="cm - 1100303313 - 1"]/span[2]"));
             //Assert.True(IsElementVisible(element));
         }
 

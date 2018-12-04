@@ -93,3 +93,4 @@ C:\Users\m.kolodijev\Downloads\Arvato\Arvato\ClassLibrary1\bin\Debug\WebDriver.x
 C:\Users\m.kolodijev\Downloads\Arvato\Arvato\ClassLibrary1\bin\Debug\WebDriver.Support.xml
 C:\Users\m.kolodijev\Downloads\Arvato\Arvato\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 C:\Users\m.kolodijev\Downloads\Arvato\Arvato\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\m.kolodijev\Downloads\Arvato\Arvato\ClassLibrary1\obj\Debug\Framework.csprojResolveAssemblyReference.cache
