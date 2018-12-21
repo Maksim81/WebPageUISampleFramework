@@ -1,10 +1,10 @@
-Basic test suite for testing Arvato Front Page version 1.0
+Basic framework which contains test suite for testing Web Pages version 1.0
 
 Author: Maksim Kolodijev (maksim.kolodijev@mail.ee / 55581521)
 
 DESCRIPTION:
 
-Arvato Front Page application UI tests set. Chrome Browser is used as a main browser, but IE and FF could be used as well.
+Basic framework application UI tests set. Chrome Browser is used as a main browser, but IE and FF could be used as well.
 
 REQUIREMENTS:
 
